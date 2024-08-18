@@ -18,8 +18,8 @@
       "Punchline": "Manage and send messages to Discord webhooks.",
       "AcceptsFeedback": true,
       "RepoUrl": "https://github.com/Brappp/wahhooks",
-      "DownloadLinkInstall": "https://github.com/Brappp/wahhooks/releases/download/1.0.0.0/WahHooks.zip",
-      "DownloadLinkTesting": "https://github.com/Brappp/wahhooks/releases/download/1.0.0.0/WahHooks.zip",
+      "DownloadLinkInstall": "https://github.com/Brappp/wahhooks/releases/download/0.0.0.1/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Brappp/wahhooks/releases/download/0.0.0.1/latest.zip",
       "IconUrl": ""
     }
   ]
