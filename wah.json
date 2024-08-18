@@ -1,23 +1,26 @@
-{
-  "Author": "wah",
-  "Name": "WahHooks",
-  "InternalName": "WahHooks",
-  "AssemblyVersion": "1.0.0.0",
-  "Description": "A plugin to manage Discord webhooks with nicknames and send messages using commands.",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "discord",
-    "webhook"
-  ],
-  "DalamudApiLevel": 10,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "Manage and send messages to Discord webhooks.",
-  "AcceptsFeedback": true,
-  "RepoUrl": "https://github.com/Brappp/wahhooks",
-  "DownloadLinkInstall": "https://github.com/Brappp/wahhooks/releases/download/1.0.0.0/WahHooks.zip",
-  "DownloadLinkTesting": "https://github.com/Brappp/wahhooks/releases/download/1.0.0.0/WahHooks.zip",
-  "IconUrl": ""
-}
+[
+    {
+      "Author": "wah",
+      "Name": "WahHooks",
+      "InternalName": "WahHooks",
+      "AssemblyVersion": "1.0.0.0",
+      "Description": "A plugin to manage Discord webhooks with nicknames and send messages using commands.",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "discord",
+        "webhook"
+      ],
+      "DalamudApiLevel": 10,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Manage and send messages to Discord webhooks.",
+      "AcceptsFeedback": true,
+      "RepoUrl": "https://github.com/Brappp/wahhooks",
+      "DownloadLinkInstall": "https://github.com/Brappp/wahhooks/releases/download/1.0.0.0/WahHooks.zip",
+      "DownloadLinkTesting": "https://github.com/Brappp/wahhooks/releases/download/1.0.0.0/WahHooks.zip",
+      "IconUrl": ""
+    }
+  ]
+  
