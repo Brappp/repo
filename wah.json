@@ -26,7 +26,7 @@
       "Author": "wah",
       "Name": "PaissaWah",
       "InternalName": "PaissaWah",
-      "AssemblyVersion": "1.0.0.0",
+      "AssemblyVersion": "1.0.0.1",
       "Description": "A PaissaDB parser",
       "ApplicableVersion": "any",
       "Tags": [
