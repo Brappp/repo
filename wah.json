@@ -26,7 +26,7 @@
       "Author": "wah",
       "Name": "PaissaWah",
       "InternalName": "PaissaWah",
-      "AssemblyVersion": "1.0.0.1",
+      "AssemblyVersion": "1.0.0.2",
       "Description": "A PaissaDB parser",
       "ApplicableVersion": "any",
       "Tags": [
@@ -40,7 +40,7 @@
       "Punchline": "A PaissaDB parser",
       "AcceptsFeedback": true,
       "RepoUrl": "https://github.com/Brappp/PaissaWah",
-      "DownloadLinkInstall": "https://github.com/Brappp/PaissaWah/releases/download/1.0.0.1/latest.zip",
+      "DownloadLinkInstall": "https://github.com/Brappp/PaissaWah/releases/download/1.0.0.2/latest.zip",
       "DownloadLinkTesting": "https://github.com/Brappp/PaissaWah/releases/download/1.0.0.2/latest.zip",
       "IconUrl": ""
   }
