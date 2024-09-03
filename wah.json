@@ -40,6 +40,7 @@
       "Punchline": "A PaissaDB parser",
       "AcceptsFeedback": true,
       "RepoUrl": "https://github.com/Brappp/PaissaWah",
+      "IconUrl": "https://github.com/Brappp/PaissaWah/blob/main/Data/wah.png?raw=true",
       "DownloadLinkInstall": "https://github.com/Brappp/PaissaWah/releases/download/1.0.0.3/latest.zip",
       "DownloadLinkTesting": "https://github.com/Brappp/PaissaWah/releases/download/1.0.0.3/latest.zip",
       "IconUrl": ""
