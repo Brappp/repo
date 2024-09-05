@@ -48,7 +48,7 @@
     "Author": "wah",
     "Name": "WahJumps",
     "InternalName": "WahJumps",
-    "AssemblyVersion": "1.0.0.4",
+    "AssemblyVersion": "1.0.0.5",
     "Description": "Jumping Puzzle Directory - LifeStream must be installed to travel!",
     "ApplicableVersion": "any",
     "Tags": [
@@ -62,7 +62,7 @@
     "Punchline": "Jumping Puzzle Directory",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Brappp/WahJumps",
-    "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.4/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.5/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.5/latest.zip",
     }
 ]
