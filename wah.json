@@ -59,7 +59,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Jumping Puzzle Directory",
+    "Punchline": "Jumping Puzzle Directory - LifeStream must be installed to travel!",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Brappp/WahJumps",
     "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.1/latest.zip",
