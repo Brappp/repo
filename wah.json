@@ -61,7 +61,7 @@
     "LoadPriority": 0,
     "Punchline": "Jumping Puzzle Directory",
     "AcceptsFeedback": true,
-    "IconUrl": "https://raw.githubusercontent.com/Brappp/WahJumps/master/Data/icon.png",
+    "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
     "RepoUrl": "https://github.com/Brappp/WahJumps",
     "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.5/latest.zip",
     "DownloadLinkTesting": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.5/latest.zip",
