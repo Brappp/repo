@@ -48,7 +48,7 @@
     "Author": "wah",
     "Name": "WahJumps",
     "InternalName": "WahJumps",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "Jumping Puzzle Directory",
     "ApplicableVersion": "any",
     "Tags": [
@@ -62,7 +62,7 @@
     "Punchline": "Jumping Puzzle Directory",
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Brappp/WahJumps",
-    "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/WahJumps/releases/download/1.0.0.1/latest.zip",
     }
 ]
