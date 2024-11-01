@@ -23,6 +23,29 @@
       "IconUrl": ""
   },
   {
+    "Author": "wah",
+    "Name": "WahHooks",
+    "InternalName": "PushyFinder",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "A plugin to manage Discord webhooks with nicknames and send messages using commands.",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "discord",
+        "webhook"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/Brappp/PushyFinder",
+    "DownloadLinkInstall": "https://github.com/Brappp/PushyFinder/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/PushyFinder/releases/download/1.0.0.0/latest.zip",
+    "IconUrl": ""
+  },
+  {
       "Author": "wah",
       "Name": "PaissaWah",
       "InternalName": "PaissaWah",
