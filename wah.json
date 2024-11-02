@@ -26,8 +26,8 @@
     "Author": "wah",
     "Name": "DiscordRelay",
     "InternalName": "DiscordRelay",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "A plugin to manage Discord webhooks with nicknames and send messages using commands.",
+    "AssemblyVersion": "1.3.0.0",
+    "Description": "A plugin to forwarding party notifications to discord",
     "ApplicableVersion": "any",
     "Tags": [
         "discord",
