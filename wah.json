@@ -24,8 +24,8 @@
   },
   {
     "Author": "wah",
-    "Name": "WahHooks",
-    "InternalName": "PushyFinder",
+    "Name": "DiscordRelay",
+    "InternalName": "DiscordRelay",
     "AssemblyVersion": "1.0.0.0",
     "Description": "A plugin to manage Discord webhooks with nicknames and send messages using commands.",
     "ApplicableVersion": "any",
