@@ -1,52 +1,6 @@
 [
   {
       "Author": "wah",
-      "Name": "WahHooks",
-      "InternalName": "WahHooks",
-      "AssemblyVersion": "1.0.0.0",
-      "Description": "A plugin to manage Discord webhooks with nicknames and send messages using commands.",
-      "ApplicableVersion": "any",
-      "Tags": [
-          "discord",
-          "webhook"
-      ],
-      "DalamudApiLevel": 10,
-      "LoadRequiredState": 0,
-      "LoadSync": false,
-      "CanUnloadAsync": false,
-      "LoadPriority": 0,
-      "Punchline": "Manage and send messages to Discord webhooks.",
-      "AcceptsFeedback": true,
-      "RepoUrl": "https://github.com/Brappp/wahhooks",
-      "DownloadLinkInstall": "https://github.com/Brappp/wahhooks/releases/download/0.0.0.1/latest.zip",
-      "DownloadLinkTesting": "https://github.com/Brappp/wahhooks/releases/download/0.0.0.1/latest.zip",
-      "IconUrl": ""
-  },
-  {
-    "Author": "wah",
-    "Name": "DiscordRelay",
-    "InternalName": "DiscordRelay",
-    "AssemblyVersion": "1.3.0.0",
-    "Description": "A plugin to forwarding party notifications to discord",
-    "ApplicableVersion": "any",
-    "Tags": [
-        "discord",
-        "webhook"
-    ],
-    "DalamudApiLevel": 10,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "",
-    "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/Brappp/PushyFinder",
-    "DownloadLinkInstall": "https://github.com/Brappp/PushyFinder/releases/download/1.0.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Brappp/PushyFinder/releases/download/1.0.0.0/latest.zip",
-    "IconUrl": ""
-  },
-  {
-      "Author": "wah",
       "Name": "PaissaWah",
       "InternalName": "PaissaWah",
       "AssemblyVersion": "1.0.0.3",
