@@ -1,4 +1,26 @@
 [
+    {
+        "Author": "Wah",
+        "Name": "PFRelay",
+        "InternalName": "PFRelay",
+        "AssemblyVersion": "1.0.0.3",
+        "Description": "A plugin that uses Telegram or a Discord bot to forward Party Finder notifications",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "wah"
+        ],
+        "DalamudApiLevel": 10,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "A plugin that uses Telegram or a Discord bot to forward Party Finder notifications",
+        "AcceptsFeedback": true,
+        "RepoUrl": "https://github.com/Brappp/PFRelay",
+        "IconUrl": "",
+        "DownloadLinkInstall": "https://github.com/Brappp/PFRelay/releases/download/1.0.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Brappp/PFRelay/releases/download/1.0.0/latest.zip",
+    },
   {
       "Author": "wah",
       "Name": "PaissaWah",
