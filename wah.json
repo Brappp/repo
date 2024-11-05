@@ -2,7 +2,7 @@
     {
         "Author": "Wah",
         "Name": "PFRelay",
-        "InternalName": "PFRelay",
+        "InternalName": "DiscordRelay",
         "AssemblyVersion": "1.0.0.3",
         "Description": "A plugin that uses Telegram or a Discord bot to forward Party Finder notifications",
         "ApplicableVersion": "any",
