@@ -1,10 +1,9 @@
 [
     {
-        "Author": "Wah",
+        "Author": "wah",
         "Name": "PFRelay",
         "InternalName": "PFRelay",
-        "AssemblyVersion": "1.3.0.0",
-        "AssemblyName": "PFRelay.dll",
+        "AssemblyVersion": "1.0.0.0",
         "Description": "A plugin that uses Telegram or a Discord bot to forward Party Finder notifications",
         "ApplicableVersion": "any",
         "Tags": [
