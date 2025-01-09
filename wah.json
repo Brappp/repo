@@ -1,29 +1,6 @@
 [
     {
         "Author": "wah",
-        "Name": "WrathIcon",
-        "InternalName": "WrathIcon",
-        "AssemblyVersion": "0.0.0.5",
-        "Description": "Wrath Auto Toggle",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Brappp/Wrath_Auto_Tracker",
-        "Tags": [
-          "wah"
-        ],
-        "DalamudApiLevel": 11,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "Wrath Auto Toggle",
-        "AcceptsFeedback": true,
-        "RepoUrl": "https://github.com/Brappp/Wrath_Auto_Tracker",
-        "IconUrl": "",
-        "DownloadLinkInstall": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.5/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.5/latest.zip"
-    },
-    {
-        "Author": "wah",
         "Name": "PFRelay",
         "InternalName": "PFRelay",
         "AssemblyVersion": "1.0.0.13",
@@ -44,28 +21,6 @@
         "IconUrl": "",
         "DownloadLinkInstall": "https://github.com/Brappp/pfrelay/releases/download/1.0.0.13/latest.zip",
         "DownloadLinkTesting": "https://github.com/Brappp/pfrelayreleases/download/1.0.0.13/latest.zip"
-    },
-    {
-        "Author": "wah",
-        "Name": "PaissaWah",
-        "InternalName": "PaissaWah",
-        "AssemblyVersion": "1.0.0.4",
-        "Description": "LifeStream must be installed to travel!",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "wah"
-        ],
-        "DalamudApiLevel": 11,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "A PaissaDB parser",
-        "AcceptsFeedback": true,
-        "RepoUrl": "https://github.com/Brappp/PaissaWah",
-        "IconUrl": "https://raw.githubusercontent.com/Brappp/PaissaWah/master/Data/icon.png",
-        "DownloadLinkInstall": "https://github.com/Brappp/PaissaWah/releases/download/1.0.0.4/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Brappp/PaissaWah/releases/download/1.0.0.4/latest.zip"
     },
     {
         "Author": "wah",
