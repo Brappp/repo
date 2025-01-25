@@ -93,7 +93,7 @@
         "Author": "wah",
         "Name": "wahbuttons",
         "InternalName": "wahbuttons",
-        "AssemblyVersion": "0.0.0.10",
+        "AssemblyVersion": "0.0.0.11",
         "Description": "Dynamic Button Generator",
         "ApplicableVersion": "any",
         "Tags": [
@@ -108,7 +108,7 @@
         "AcceptsFeedback": true,
         "RepoUrl": "https://github.com/Brappp/wahbuttons",
         "IconUrl": "",
-        "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/10/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Brappp/wahbuttons/releases/download/10/latest.zip"
+        "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/11/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Brappp/wahbuttons/releases/download/11/latest.zip"
     }
 ]
