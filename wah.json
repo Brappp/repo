@@ -93,7 +93,7 @@
         "Author": "wah",
         "Name": "wahbuttons",
         "InternalName": "wahbuttons",
-        "AssemblyVersion": "0.0.0.6",
+        "AssemblyVersion": "0.0.0.7",
         "Description": "Dynamic Button Generator",
         "ApplicableVersion": "any",
         "Tags": [
