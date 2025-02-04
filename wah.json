@@ -6,7 +6,7 @@
         "AssemblyVersion": "0.0.0.9",
         "Description": "Wrath Auto Toggle",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Brappp/Wrath_Auto_Tracker",
+        "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
         "Tags": [
           "wah"
         ],
@@ -17,7 +17,7 @@
         "LoadPriority": 0,
         "Punchline": "Wrath Auto Toggle",
         "AcceptsFeedback": true,
-        "RepoUrl": "https://github.com/Brappp/Wrath_Auto_Tracker",
+        "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
         "IconUrl": "",
         "DownloadLinkInstall": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.9/latest.zip",
         "DownloadLinkTesting": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.9/latest.zip"
