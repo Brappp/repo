@@ -47,28 +47,6 @@
     },
     {
         "Author": "wah",
-        "Name": "PaissaWah",
-        "InternalName": "PaissaWah",
-        "AssemblyVersion": "1.0.0.4",
-        "Description": "LifeStream must be installed to travel!",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "wah"
-        ],
-        "DalamudApiLevel": 11,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "A PaissaDB parser",
-        "AcceptsFeedback": true,
-        "RepoUrl": "https://github.com/Brappp/PaissaWah",
-        "IconUrl": "https://raw.githubusercontent.com/Brappp/PaissaWah/master/Data/icon.png",
-        "DownloadLinkInstall": "https://github.com/Brappp/PaissaWah/releases/download/1.0.0.4/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Brappp/PaissaWah/releases/download/1.0.0.4/latest.zip"
-    },
-    {
-        "Author": "wah",
         "Name": "WahJumps",
         "InternalName": "WahJumps",
         "AssemblyVersion": "1.0.1.0",
