@@ -22,6 +22,29 @@
         "DownloadLinkInstall": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.10/latest.zip",
         "DownloadLinkTesting": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.10/latest.zip"
     },
+        {
+        "Author": "wah",
+        "Name": "Zoomies",
+        "InternalName": "Zoomies",
+        "AssemblyVersion": "0.0.0.1",
+        "Description": "Fun speedometers",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
+        "Tags": [
+          "wah"
+        ],
+        "DalamudApiLevel": 11,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Fun speedometers",
+        "AcceptsFeedback": true,
+        "RepoUrl": "https://github.com/Brappp/Zoom",
+        "IconUrl": "",
+        "DownloadLinkInstall": "https://github.com/Brappp/Zoom/releases/download/0.0.0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Brappp/Zoom/releases/download/0.0.0.1/latest.zip"
+    },
     {
         "Author": "wah",
         "Name": "WahJumps",
