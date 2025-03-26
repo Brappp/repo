@@ -26,14 +26,14 @@
         "Author": "wah",
         "Name": "Zoomies",
         "InternalName": "Zoomies",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.0.0.2",
         "Description": "Fun speedometers",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
         "Tags": [
           "wah"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
@@ -42,8 +42,8 @@
         "AcceptsFeedback": true,
         "RepoUrl": "https://github.com/Brappp/Zoom",
         "IconUrl": "",
-        "DownloadLinkInstall": "https://github.com/Brappp/Zoom/releases/download/0.0.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Brappp/Zoom/releases/download/0.0.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/Brappp/Zoom/releases/download/0.0.0.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Brappp/Zoom/releases/download/0.0.0.2/latest.zip"
     },
     {
         "Author": "wah",
@@ -55,7 +55,7 @@
         "Tags": [
             "wah"
         ],
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "CanUnloadAsync": false,
