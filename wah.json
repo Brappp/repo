@@ -1,92 +1,114 @@
 [
-    {
-        "Author": "wah",
-        "Name": "WrathIcon",
-        "InternalName": "WrathIcon",
-        "AssemblyVersion": "0.0.0.12",
-        "Description": "Wrath Auto Toggle",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
-        "Tags": [
-          "wah"
-        ],
-        "DalamudApiLevel": 12,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "Wrath Auto Toggle",
-        "AcceptsFeedback": true,
-        "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
-        "IconUrl": "",
-        "DownloadLinkInstall": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.12/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.12/latest.zip"
-    },
-        {
-        "Author": "wah",
-        "Name": "Zoomies",
-        "InternalName": "Zoomies",
-        "AssemblyVersion": "0.0.0.2",
-        "Description": "Fun speedometers",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
-        "Tags": [
-          "wah"
-        ],
-        "DalamudApiLevel": 12,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "Fun speedometers",
-        "AcceptsFeedback": true,
-        "RepoUrl": "https://github.com/Brappp/Zoom",
-        "IconUrl": "",
-        "DownloadLinkInstall": "https://github.com/Brappp/Zoom/releases/download/0.0.0.2/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Brappp/Zoom/releases/download/0.0.0.2/latest.zip"
-    },
-    {
-        "Author": "wah",
-        "Name": "WahJumps",
-        "InternalName": "WahJumps",
-        "AssemblyVersion": "1.0.3.0",
-        "Description": "Jumping Puzzle Directory - LifeStream must be installed to travel!",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "wah"
-        ],
-        "DalamudApiLevel": 12,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "Jumping Puzzle Directory",
-        "AcceptsFeedback": true,
-        "RepoUrl": "https://github.com/Brappp/WahJumps",
-        "IconUrl": "https://raw.githubusercontent.com/Brappp/WahJumps/master/Data/icon.png",
-        "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/1.0.3.0/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Brappp/WahJumps/releases/download/1.0.3.0/latest.zip"
-    },
-    {
-        "Author": "wah",
-        "Name": "wahbuttons",
-        "InternalName": "wahbuttons",
-        "AssemblyVersion": "0.0.0.14",
-        "Description": "Dynamic Button Generator",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "wah"
-        ],
-        "DalamudApiLevel": 12,
-        "LoadRequiredState": 0,
-        "LoadSync": false,
-        "CanUnloadAsync": false,
-        "LoadPriority": 0,
-        "Punchline": "BUTTONS FOR EVERYONE",
-        "AcceptsFeedback": true,
-        "RepoUrl": "https://github.com/Brappp/wahbuttons",
-        "IconUrl": "",
-        "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/14/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Brappp/wahbuttons/releases/download/14/latest.zip"
-    }
+  {
+    "Author": "wah",
+    "Name": "WrathIcon",
+    "InternalName": "WrathIcon",
+    "AssemblyVersion": "0.0.0.12",
+    "Description": "Wrath Auto Toggle",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
+    "Tags": [
+      "wah"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Wrath Auto Toggle",
+    "AcceptsFeedback": true,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.12/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.12/latest.zip"
+  },
+  {
+    "Author": "wah",
+    "Name": "Zoomies",
+    "InternalName": "Zoomies",
+    "AssemblyVersion": "0.0.0.2",
+    "Description": "Fun speedometers",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Brappp/Zoom",
+    "Tags": [
+      "wah"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Fun speedometers",
+    "AcceptsFeedback": true,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://github.com/Brappp/Zoom/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/Zoom/releases/download/0.0.0.2/latest.zip"
+  },
+  {
+    "Author": "wah",
+    "Name": "WahJumps",
+    "InternalName": "WahJumps",
+    "AssemblyVersion": "1.0.3.0",
+    "Description": "Jumping Puzzle Directory - LifeStream must be installed to travel!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Brappp/WahJumps",
+    "Tags": [
+      "wah"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Jumping Puzzle Directory",
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/Brappp/WahJumps/master/Data/icon.png",
+    "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/1.0.3.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/WahJumps/releases/download/1.0.3.0/latest.zip"
+  },
+  {
+    "Author": "wah",
+    "Name": "wahbuttons",
+    "InternalName": "wahbuttons",
+    "AssemblyVersion": "0.0.0.14",
+    "Description": "Dynamic Button Generator",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Brappp/wahbuttons",
+    "Tags": [
+      "wah"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "BUTTONS FOR EVERYONE",
+    "AcceptsFeedback": true,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/14/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/wahbuttons/releases/download/14/latest.zip"
+  },
+  {
+    "Author": "wah",
+    "Name": "Wahdar",
+    "InternalName": "Wahdar",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Displays nearby objects like monsters, NPCs and players on a radar interface. Use /wahdar to open the radar window.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Brappp/Wahdar",
+    "Tags": [
+      "radar",
+      "tracker",
+      "utility"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Track objects around you with a radar display",
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/Brappp/Wahdar/master/Data/icon.png",
+    "DownloadLinkInstall": "https://github.com/Brappp/Wahdar/releases/download/1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/Wahdar/releases/download/1.0/latest.zip"
+  }
 ]
