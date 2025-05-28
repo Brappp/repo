@@ -91,7 +91,7 @@
     "Author": "wah",
     "Name": "Wahdar",
     "InternalName": "Wahdar",
-    "AssemblyVersion": "0.0.0.6",
+    "AssemblyVersion": "0.0.0.7",
     "Description": "Displays nearby objects like monsters, NPCs and players on a radar interface. Use /wahdar to open the radar window.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Brappp/Wahdar",
@@ -108,7 +108,7 @@
     "Punchline": "Track objects around you with a radar display",
     "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/Brappp/Wahdar/master/Data/icon.png",
-    "DownloadLinkInstall": "https://github.com/Brappp/Wahdar/releases/download/6.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Brappp/Wahdar/releases/download/6.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Brappp/Wahdar/releases/download/7.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/Wahdar/releases/download/7.0/latest.zip"
   }
 ]
