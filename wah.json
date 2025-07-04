@@ -47,7 +47,7 @@
     "Author": "wah",
     "Name": "wahbuttons",
     "InternalName": "wahbuttons",
-    "AssemblyVersion": "0.0.0.14",
+    "AssemblyVersion": "0.0.0.15",
     "Description": "Dynamic Button Generator",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Brappp/wahbuttons",
