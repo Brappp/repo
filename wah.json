@@ -64,5 +64,51 @@
     "IconUrl": "",
     "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/15/latest.zip",
     "DownloadLinkTesting": "https://github.com/Brappp/wahbuttons/releases/download/15/latest.zip"
+  },
+  {
+    "Author": "wah",
+    "Name": "Zoomies",
+    "InternalName": "Zoomies",
+    "AssemblyVersion": "0.0.0.2",
+    "Description": "Fun speedometers",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Brappp/Zoom",
+    "Tags": [
+      "wah"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Fun speedometers",
+    "AcceptsFeedback": true,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://github.com/Brappp/Zoom/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/Zoom/releases/download/0.0.0.2/latest.zip"
+  },
+  {
+    "Author": "wah",
+    "Name": "Wahdar",
+    "InternalName": "Wahdar",
+    "AssemblyVersion": "0.0.0.9",
+    "Description": "Displays nearby objects like monsters, NPCs and players on a radar interface. Use /wahdar to open the radar window.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Brappp/Wahdar",
+    "Tags": [
+      "radar",
+      "tracker",
+      "utility"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Track objects around you with a radar display",
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/Brappp/Wahdar/master/Data/icon.png",
+    "DownloadLinkInstall": "https://github.com/Brappp/Wahdar/releases/download/9.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/Wahdar/releases/download/9.0/latest.zip"
   }
 ]
