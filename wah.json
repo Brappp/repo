@@ -47,14 +47,14 @@
     "Author": "wah",
     "Name": "wahbuttons",
     "InternalName": "wahbuttons",
-    "AssemblyVersion": "0.0.0.15",
+    "AssemblyVersion": "0.0.0.16",
     "Description": "Dynamic Button Generator",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Brappp/wahbuttons",
     "Tags": [
       "wah"
     ],
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -62,8 +62,8 @@
     "Punchline": "BUTTONS FOR EVERYONE",
     "AcceptsFeedback": true,
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/15/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Brappp/wahbuttons/releases/download/15/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/16/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/wahbuttons/releases/download/16/latest.zip"
   },
   {
     "Author": "wah",
