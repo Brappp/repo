@@ -3,14 +3,14 @@
     "Author": "wah",
     "Name": "WrathIcon",
     "InternalName": "WrathIcon",
-    "AssemblyVersion": "0.0.0.13",
+    "AssemblyVersion": "0.0.0.14",
     "Description": "Wrath Auto Toggle",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
     "Tags": [
       "wah"
     ],
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -18,8 +18,8 @@
     "Punchline": "Wrath Auto Toggle",
     "AcceptsFeedback": true,
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.13/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.13/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.14/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.14/latest.zip"
   },
   {
     "Author": "wah",
