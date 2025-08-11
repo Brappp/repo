@@ -1,50 +1,6 @@
 [
   {
     "Author": "wah",
-    "Name": "WrathIcon",
-    "InternalName": "WrathIcon",
-    "AssemblyVersion": "0.0.0.14",
-    "Description": "Wrath Auto Toggle",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Brappp/Wrath-Icon",
-    "Tags": [
-      "wah"
-    ],
-    "DalamudApiLevel": 13,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Wrath Auto Toggle",
-    "AcceptsFeedback": true,
-    "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.14/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Brappp/Wrath_Auto_Tracker/releases/download/0.0.0.14/latest.zip"
-  },
-  {
-    "Author": "wah",
-    "Name": "WahJumps",
-    "InternalName": "WahJumps",
-    "AssemblyVersion": "1.0.7.0",
-    "Description": "Jumping Puzzle Directory - LifeStream must be installed to travel!",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Brappp/WahJumps",
-    "Tags": [
-      "wah"
-    ],
-    "DalamudApiLevel": 13,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Jumping Puzzle Directory",
-    "AcceptsFeedback": true,
-    "IconUrl": "https://raw.githubusercontent.com/Brappp/WahJumps/master/Data/icon.png",
-    "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/1.0.7.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Brappp/WahJumps/releases/download/1.0.7.0/latest.zip"
-  },
-  {
-    "Author": "wah",
     "Name": "wahbuttons",
     "InternalName": "wahbuttons",
     "AssemblyVersion": "0.0.0.16",
@@ -110,31 +66,5 @@
     "IconUrl": "https://raw.githubusercontent.com/Brappp/Wahdar/master/Data/icon.png",
     "DownloadLinkInstall": "https://github.com/Brappp/Wahdar/releases/download/9.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/Brappp/Wahdar/releases/download/9.0/latest.zip"
-  },
-  {
-    "Author": "wah",
-    "Name": "wahventory",
-    "InternalName": "wahventory",
-    "AssemblyVersion": "4.0.0.0",
-    "Description": "An inventory management plugin\n• Smart safety filters\n• Market price integration via Universalis\n• Bulk discard functionality\n• Category grouping and search\n• Gearset protection\n\n➤ \\wahventory - open the interface\n➤ \\wahventory auto - run auto discard without confirmation",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Brappp/wahventory",
-    "Tags": [
-      "inventory",
-      "management",
-      "discard",
-      "filter",
-      "utility"
-    ],
-    "DalamudApiLevel": 13,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "Advanced inventory management with safety filters and auto-discard",
-    "AcceptsFeedback": true,
-    "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/Brappp/wahventory/releases/download/4.0.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Brappp/wahventory/releases/download/4.0.0.0/latest.zip"
   }
 ]
