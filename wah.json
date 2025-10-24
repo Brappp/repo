@@ -17,22 +17,5 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "13",
     "Changelog": "**Full Changelog**: https://github.com/Brappp/wahbuttons/compare/14...16"
-  },
-  {
-    "Author": "Brappp",
-    "Name": "Wahventory",
-    "Punchline": "",
-    "Description": "",
-    "Tags": [],
-    "InternalName": "wahventory",
-    "RepoUrl": "https://github.com/Brappp/wahventory",
-    "DownloadCount": 35,
-    "LastUpdate": 1761345920,
-    "DownloadLinkInstall": "https://github.com/Brappp/wahventory/releases/download/4.0.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Brappp/wahventory/releases/download/4.0.0.0/latest.zip",
-    "AssemblyVersion": "4.0.0.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
-    "Changelog": ""
   }
 ]
