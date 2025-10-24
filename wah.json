@@ -1,25 +1,6 @@
 [
   {
     "Author": "wah",
-    "Name": "WahJumps",
-    "Punchline": "LifeStream must be installed to travel!",
-    "Description": "Jump Pizzle travler",
-    "Tags": [
-      "wah"
-    ],
-    "InternalName": "WahJumps",
-    "RepoUrl": "https://github.com/Brappp/WahJumps",
-    "DownloadCount": 295,
-    "LastUpdate": 1761348695,
-    "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/1.0.7.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Brappp/WahJumps/releases/download/1.0.7.0/latest.zip",
-    "AssemblyVersion": "1.0.7.0",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "13",
-    "Changelog": ""
-  },
-  {
-    "Author": "wah",
     "Name": "Wahbuttons",
     "Punchline": "BUTTONS FOR EVERYONE",
     "Description": "",
