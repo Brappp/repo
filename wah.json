@@ -3,7 +3,7 @@
     "Author": "wah",
     "Name": "Wahbuttons",
     "InternalName": "wahbuttons",
-    "AssemblyVersion": "0.0.0.16",
+    "AssemblyVersion": "16.0.0.0",
     "Description": "",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Brappp/wahbuttons",
@@ -19,6 +19,9 @@
     "AcceptsFeedback": true,
     "IconUrl": "",
     "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/16/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Brappp/wahbuttons/releases/download/16/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/Brappp/wahbuttons/releases/download/16/latest.zip",
+    "DownloadCount": 176,
+    "LastUpdate": 1754489356,
+    "Changelog": "**Full Changelog**: https://github.com/Brappp/wahbuttons/compare/14...16"
   }
 ]
