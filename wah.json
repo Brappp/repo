@@ -10,7 +10,7 @@
     "Tags": [
       "wah"
     ],
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -18,10 +18,10 @@
     "Punchline": "BUTTONS FOR EVERYONE",
     "AcceptsFeedback": true,
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/16/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Brappp/wahbuttons/releases/download/16/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/17/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Brappp/wahbuttons/releases/download/17/latest.zip",
     "DownloadCount": 182,
     "LastUpdate": 1754489356,
-    "Changelog": "**Full Changelog**: https://github.com/Brappp/wahbuttons/compare/14...16"
+    "Changelog": ""
   }
 ]
