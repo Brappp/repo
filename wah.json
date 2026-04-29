@@ -3,14 +3,14 @@
     "Author": "wah",
     "Name": "Wahbuttons",
     "InternalName": "wahbuttons",
-    "AssemblyVersion": "16.0.0.0",
+    "AssemblyVersion": "0.0.0.18",
     "Description": "",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Brappp/wahbuttons",
     "Tags": [
       "wah"
     ],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -18,10 +18,10 @@
     "Punchline": "BUTTONS FOR EVERYONE",
     "AcceptsFeedback": true,
     "IconUrl": "",
-    "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/17/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Brappp/wahbuttons/releases/download/17/latest.zip",
-    "DownloadCount": 182,
-    "LastUpdate": 1754489356,
+    "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/18/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Brappp/wahbuttons/releases/download/18/latest.zip",
+    "DownloadCount": 242,
+    "LastUpdate": 1777498360,
     "Changelog": ""
   }
 ]
