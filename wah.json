@@ -1,17 +1,27 @@
 [
-  {                                                                                                                                                    
-    "Author": "wah",                                                                                                                                   
-    "Name": "WahJumps",                                                                                                                                
-    "InternalName": "WahJumps",
-    "AssemblyVersion": "1.0.9.0",
-    "Description": "Jump Puzzle traveler",
-    "Punchline": "LifeStream must be installed to travel!",
+  {
+    "Author": "wah",
+    "Name": "Wahbuttons",
+    "InternalName": "wahbuttons",
+    "AssemblyVersion": "16.0.0.0",
+    "Description": "",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Brappp/WahJumps",
-    "Tags": ["wah"],
-    "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/Brappp/WahJumps/releases/download/<tag>/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Brappp/WahJumps/releases/download/<tag>/latest.zip",
-    "IconUrl": ""
+    "RepoUrl": "https://github.com/Brappp/wahbuttons",
+    "Tags": [
+      "wah"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "BUTTONS FOR EVERYONE",
+    "AcceptsFeedback": true,
+    "IconUrl": "",
+    "DownloadLinkInstall": "https://github.com/Brappp/wahbuttons/releases/download/17/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Brappp/wahbuttons/releases/download/17/latest.zip",
+    "DownloadCount": 182,
+    "LastUpdate": 1754489356,
+    "Changelog": ""
   }
 ]
