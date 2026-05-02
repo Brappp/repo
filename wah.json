@@ -3,13 +3,11 @@
     "Author": "wah",
     "Name": "Wahbuttons",
     "InternalName": "wahbuttons",
-    "AssemblyVersion": "0.0.0.18",
+    "AssemblyVersion": "18.0.0.0",
     "Description": "",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Brappp/wahbuttons",
-    "Tags": [
-      "wah"
-    ],
+    "Tags": ["wah"],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
